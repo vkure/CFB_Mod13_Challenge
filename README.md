@@ -1,4 +1,4 @@
-# CFB_Mod13_Challenge: Venture CapitalPerformance
+# CFB_Mod13_Challenge: Venture Capital Performance
 
 
 This is a Python-based neural networks tool that predicts whether potential venture capital investments may be successful. The tool incorporates a binary classification model using a deep neural network.  The first step is to pre-process the data.  The second step is to use the model-fit-predict pattern and evaluate a binary classification model. Finally, the last step is to optimize the model by changing the inputs, such as number of nodes, layers or epochs.
